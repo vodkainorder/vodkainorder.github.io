@@ -5,7 +5,7 @@ title: Initial setup
 category: tech
 tags: [ 'tutorial' ]
 ---
-
+here's another blogger.
 All features of { Personal } are controlled by setting values to variables that are defined in the
 \_config.yml file. Let's start with the initial variables that you have to set before
 serving your { Personal } website for the first time.
