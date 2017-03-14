@@ -153,12 +153,7 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-<<<<<<< HEAD
-
-  - title: "Linkedin"
-=======
- - title: "LinkedIn"
->>>>>>> origin/master
+  - title: "LinkedIn"
     url: "https://www.linkedin.com/in/stacy-zhou-ba48228b/"
   - title: "facebook"
     url: "https://facebook.com/"
