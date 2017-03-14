@@ -113,7 +113,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/intern.png"
     date: "2016 - Today"
-    description: "MSc Computing and IT Management with Placement"
+    description: "eCommerce Intern"
   - image: "/img/timeline/masters.png"
     date: "2015 - 2017"
     description: "MSc Computing and IT Management with Placement"
