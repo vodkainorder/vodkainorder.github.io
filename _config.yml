@@ -111,7 +111,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/intern.png"
+  - image: "/img/timeline/masters.png"
     date: "2016 - Today"
     description: "eCommerce Intern"
   - image: "/img/timeline/masters.png"
