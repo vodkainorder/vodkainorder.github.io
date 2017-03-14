@@ -145,7 +145,7 @@ email: vodkainorder@gmail.com
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vodkainorder is an awesome person."
+author_blurb: ""Keep your face always toward the sunshine and shadows will fall behind you. ""
 author_blurb_image: "/img/author.png"
 
 ##################
