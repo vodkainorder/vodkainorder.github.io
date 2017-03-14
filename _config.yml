@@ -117,9 +117,9 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2000 - August 205"
-    description: "Started coding"
+  - image: "/img/timeline/university.png"
+    date: "September 2010 - August 2015"
+    description: "Joint onours degree in Financial Management and Business Studies"
 
 # First image of the Timeline
 
