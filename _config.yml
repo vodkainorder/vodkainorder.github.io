@@ -113,16 +113,16 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/intern.png"
     date: "2016 - Today"
-    description: "eCommerce Intern"
+    description: "Data Analysis, Affiliate Marketing, Webpages Building, Data Feeds, UX & Design"
   - image: "/img/timeline/masters.png"
     date: "2015 - 2017"
     description: "MSc Computing and IT Management with Placement"
   - image: "/img/timeline/beauty.png"
     date: "2014 - 2016"
-    description: "Beauty Advisor"
+    description: "Jump in the Beauty pool!"
   - image: "/img/timeline/digital-marketing.png"
     date: "2013 - 2014"
-    description: "Digital Marketing Executive"
+    description: "Data analysis, Affiliate channel, Social Media & China Market."
   - image: "/img/timeline/university.png"
     date: "2010 - 2015"
     description: "Joint honours degree in Financial Management and Business Studies"
@@ -135,7 +135,7 @@ timeline-img: "/img/author.png"
 # Contact #
 ###########
 
-email: 
+email: vodkainroder@gmail.com
 
 ################
 # Author Blurb #
