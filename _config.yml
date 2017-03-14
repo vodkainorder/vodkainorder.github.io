@@ -111,7 +111,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/masters.png"
+    date: "September 2015 - September 2017"
+    description: "MSc Computing and IT Management with Placement"
+  - image: "/img/timeline/beauty.png"
     date: "September 2014 - June 2016"
     description: "Beauty Advisor"
   - image: "/img/timeline/digital-marketing.png"
@@ -123,7 +126,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/profile.png"
 
 ###########
 # Contact #
