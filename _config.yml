@@ -112,11 +112,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "September 2014 - June 2016"
+    description: "Beauty Advisor"
+  - image: "/img/timeline/digital-marketing.png"
+    date: "August 2013 - August 2014"
+    description: "Digital Marketing Executive"
   - image: "/img/timeline/university.png"
     date: "September 2010 - August 2015"
     description: "Joint honours degree in Financial Management and Business Studies"
