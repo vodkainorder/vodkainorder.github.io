@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Vodkainorder"
 title: "Vodkainorder"
-description: "Blog and website of Vodkainorder, blogging mainly for my own projects and stuff. Opinions expressed are mine."
+description: "Blog and website of Vodkainorder, blogging mainly for my own projects and stuff. "
 keywords: "Vodkainorder, personal, project, blog"
 favicon: "/img/favicon.ico"
 
@@ -157,8 +157,6 @@ social:
     url: "https://www.linkedin.com/in/stacy-zhou-ba48228b/"
   - title: "facebook"
     url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "weibo"
     url: "https://weibo.com"
 
