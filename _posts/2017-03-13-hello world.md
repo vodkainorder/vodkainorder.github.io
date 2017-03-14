@@ -6,4 +6,4 @@ category: content
 tags: [ 'post' ]
 ---
 
-Hello world and print.
+Hello world and print😄.
