@@ -111,17 +111,20 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/intern.png"
+    date: "2016 - Today"
+    description: "MSc Computing and IT Management with Placement"
   - image: "/img/timeline/masters.png"
-    date: "September 2015 - September 2017"
+    date: "2015 - 2017"
     description: "MSc Computing and IT Management with Placement"
   - image: "/img/timeline/beauty.png"
-    date: "September 2014 - June 2016"
+    date: "2014 - 2016"
     description: "Beauty Advisor"
   - image: "/img/timeline/digital-marketing.png"
-    date: "August 2013 - August 2014"
+    date: "2013 - 2014"
     description: "Digital Marketing Executive"
   - image: "/img/timeline/university.png"
-    date: "September 2010 - August 2015"
+    date: "2010 - 2015"
     description: "Joint honours degree in Financial Management and Business Studies"
 
 # First image of the Timeline
