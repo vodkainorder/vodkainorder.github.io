@@ -129,7 +129,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/author.png"
 
 ###########
 # Contact #
@@ -164,7 +164,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/author.png"
+err-404-img: "/img/timeline/default.png"
 
 ##################
 # GPG on Keybase #
