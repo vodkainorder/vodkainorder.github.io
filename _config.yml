@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Welcome to my website!"
   - text: "欢迎来到我的网站!"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
